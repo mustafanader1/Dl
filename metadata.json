@@ -1,0 +1,6 @@
+{
+  "name": "مُذكّر الديون والالتزامات",
+  "description": "تطبيق متكامل لتتبع الديون والمستحقات وجدولتها وتصنيف المدينين حسب الأولوية مع ميزة التنبيهات وإرسال الإشعارات التلقائية عبر التليجرام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
